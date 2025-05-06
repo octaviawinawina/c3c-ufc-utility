@@ -23,3 +23,4 @@ Currently supported Facebook only, more platforms will be added in the future if
 -----
 
 *"Facebook" and "FB" are registered trademarks of Meta / Facebook Inc. This extension is neither endorsed by nor affiliated with Facebook or Meta.*
+bot chat
